@@ -1,0 +1,16 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 2/11/2022
+// Seção de Declarações 
+var
+     N1, N2, S: Inteiro
+inicio
+     Escreva("Informe um numero: ")
+     Leia(N1)
+     Escreva("Informe outro numero: ")
+     Leia(N2)
+     S <- N1 + N2
+     Escreva (S)
+// Seção de Comandos 
+fimalgoritmo
