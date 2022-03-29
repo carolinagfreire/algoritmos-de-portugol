@@ -2,8 +2,7 @@ algoritmo "AptoDirigir"
 // =============================================================
 // Algoritmo para verificar se uma pessoa ja pode tirar carteira de motorista
 //
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
+// AUTOR: Carolina Gregory Freire
 // =============================================================
 var
    ano, nasc, idade: Inteiro
