@@ -5,8 +5,7 @@ algoritmo "SeletorPessoas"
 //     = Total de HOMENS com mais de 18 ANOS e cabelos CASTANHOS.
 //     = Total de MULHERES entre 25 e 30 ANOS e cabelos LOIROS.
 //
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
+// AUTOR:  Carolina Gregory Freire
 // =============================================================
 var
    sexo, resp: caractere
